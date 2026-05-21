@@ -1,1 +1,188 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="encabezado">DISPONIBILIDAD FICHA/GRUPO</div>
+        <div class="items">
+            <div class="jornada-receso"></div>
+            <div class="jornada-receso"></div>
+            <div class="tematica">TEMÁTICA</div>
+            <div class="instructor">INSTRUCTOR</div>
+            <div class="ficha">ficha</div>
+            <div class="ambiente">AMBIENTE</div>
+            <div class="jornada-receso"></div>
+            <div class="tematica">TEMÁTICA</div>
+            <div class="instructor">INSTRUCTOR</div>
+            <div class="ficha">Ficha</div>
+            <div class="ambiente">AMBIENTE</div>
+            <div class="jornada-receso"></div>
+            <div class="tematica t-tarde">TEMÁTICA</div>
+            <div class="instructor i-tarde">INSTRUCTOR</div>
+            <div class="ficha">Ficha</div>
+            <div class="ambiente a-tarde">AMBIENTE</div>
+            <div class="jornada-receso"></div>
+            <div class="tematica t-tarde">TEMÁTICA</div>
+            <div class="instructor i-tarde">INSTRUCTOR</div>
+            <div class="ficha">Ficha</div>
+            <div class="ambiente a-tarde">AMBIENTE</div>
+        </div>
+        <div class="horas">
+            <div class="jornada-receso"></div>
+            <div class="jornada-receso"></div>
+            <div class="hora">6:15 am - 9:00 am</div>
+            <div class="jornada-receso"></div>
+            <div class="hora">9:00 am - 12:00 am</div>
+            <div class="jornada-receso"></div>
+            <div class="hora">12:00 pm - 3:00 pm</div>
+            <div class="jornada-receso"></div>
+            <div class="hora">3:00 pm - 6:00 pm</div>
+        </div>
+        <div class="dias">
+            <div class="dia">
+                <div class="encabezado-dia">Lunes</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica">593062 - 02 ELABORAR PROPUESTA TÉCNICA DEL SOFTWARE DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS DEFINIDAS.</div>
+                <div class="instructor">DANIEL LOPEZ</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">593060 - 01 DEFINIR ESPECIFICACIONES TÉCNICAS DEL SOFTWARE DE ACUERDO CON LAS CARACTERÍSTICAS DEL SOFTWARE A CONSTRUIR.</div>
+                <div class="instructor">DANIEL LOPEZ</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+            </div>
+            <div class="dia">
+                <div class="encabezado-dia">Martes</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica">593107 - 02 CONSTRUIR LA BASE DE DATOS PARA EL SOFTWARE A PARTIR DEL MODELO DE DATOS.</div>
+                <div class="instructor">FERNANDO GALINDO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">593107 - 02 CONSTRUIR LA BASE DE DATOS PARA EL SOFTWARE A PARTIR DEL MODELO DE DATOS.</div>
+                <div class="instructor">FERNANDO GALINDO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+            </div>
+            <div class="dia">
+                <div class="encabezado-dia">Miercoles</div>
+                <div class="jornada-receso"><strong>JORNADA MAÑANA</strong></div>
+                <div class="tematica">592373 - 02 MODELAR LAS FUNCIONES DEL SOFTWARE DE ACUERDO CON EL INFORME DE REQUISITOS.</div>
+                <div class="instructor">MIRIAM MALPICA</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">592375 - 01 PLANEAR ACTIVIDADES DE ANÁLISIS DE ACUERDO CON LA METODOLOGÍA SELECCIONADA.</div>
+                <div class="instructor">MIRIAM MALPICA</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>JORNADA TARDE</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+            </div>
+            <div class="dia">
+                <div class="encabezado-dia">Jueves</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica">593100 - 03 DETERMINAR LAS CARACTERÍSTICAS TÉCNICAS DE LA INTERFAZ GRÁFICA DEL SOFTWARE ADOPTANDO ESTÁNDARES.</div>
+                <div class="instructor">CRISTIAN BUITRAGO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">593102 - 04 VERIFICAR LOS ENTREGABLES DE LA FASE DE DISEÑO DEL SOFTWARE DE ACUERDO CON LO ESTABLECIDO EN EL INFORME DE ANÁLISIS.</div>
+                <div class="instructor">CRISTIAN BUITRAGO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">210 Av.Caracas_con_52</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+            </div>
+            <div class="dia">
+                <div class="encabezado-dia">Viernes</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica">INGLES</div>
+                <div class="instructor">CARLOS GOMEZ</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">212 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">INGLES</div>
+                <div class="instructor">CARLOS GOMEZ</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">212 Av.Caracas_con_52</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica t-tarde">MEDIO AMBIENTE Y SST</div>
+                <div class="instructor i-tarde">VANESSA GUALACO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente a-tarde">0</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde">MEDIO AMBIENTE Y SST</div>
+                <div class="instructor i-tarde">VANESSA GUALACO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente a-tarde">0</div>
+            </div>
+            <div class="dia">
+                <div class="encabezado-dia">Sábado</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica">593108 - 04 CODIFICAR EL SOFTWARE DE ACUERDO CON EL DISEÑO ESTABLECIDO.</div>
+                <div class="instructor">JONY GUERRERO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">205 Av.Caracas_con_52</div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica">593108 - 04 CODIFICAR EL SOFTWARE DE ACUERDO CON EL DISEÑO ESTABLECIDO.</div>
+                <div class="instructor">JONY GUERRERO</div>
+                <div class="ficha">2_TRM_3407187_(DT)_C_ANALISIS Y DESARROLLO DE SOFTWARE</div>
+                <div class="ambiente">205 Av.Caracas_con_52</div>
+                <div class="jornada-receso"></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+                <div class="jornada-receso"><strong>Receso</strong></div>
+                <div class="tematica t-tarde"></div>
+                <div class="instructor i-tarde"></div>
+                <div class="ficha"></div>
+                <div class="ambiente a-tarde"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
